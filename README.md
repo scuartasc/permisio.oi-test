@@ -17,8 +17,7 @@
 
 ## Introduction
 
-In this readme file 
-
+In this readme file you can find all the steps, files and
 
 ## Architecture
 
@@ -27,7 +26,6 @@ In this readme file
 
 
 ## validation
-
 
 
 ## Provisioning Kubernetes
